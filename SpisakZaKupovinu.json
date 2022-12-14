@@ -1,0 +1,18 @@
+{
+  "Naslov": "Spisak za kupovinu",
+  „Datum": "2022-12-15T17:30:00.000Z",
+  "Artikli": [
+    {
+      "Naziv": "Kifla",
+      "JM": "Kom",
+      "Kolicina": 2.00,
+      „Velicina": „Srednja"
+    },
+    {
+      "Naziv": "Pileći batak",
+      "JedMj": "Kom",
+      "Kolicina": 1.00,
+      „Pecen": „Reš" 
+    },
+  ]
+}
